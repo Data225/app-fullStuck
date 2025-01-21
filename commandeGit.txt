@@ -1,0 +1,7 @@
+commande git 
+
+supprimer tout le contenu du distant en conservant le depot lui meme : 
+
+	git rm -r cached .
+	git commit 
+	git push origin --force
